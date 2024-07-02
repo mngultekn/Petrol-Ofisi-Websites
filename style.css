@@ -1,0 +1,28 @@
+.resimslider {
+  height: 646px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+.hakkimizda {
+  background-color: #f2f2f2;
+}
+
+.ayrac {
+  border: none;
+  border-top: solid rgb(350, 0, 0);
+  margin: 25px auto;
+}
+
+.ekipcard > img:hover {
+  opacity: 0.8;
+}
+
+.galeri {
+  background-color: #f2f2f2;
+}
+.figure:hover {
+  opacity: 0.8;
+}
